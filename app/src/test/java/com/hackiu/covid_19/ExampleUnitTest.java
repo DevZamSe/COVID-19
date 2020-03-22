@@ -1,4 +1,4 @@
-package com.example.mapbox;
+package com.hackiu.covid_19;
 
 import org.junit.Test;
 

@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#6200EE</color>
-    <color name="white">#FFFFFF</color>
+    <color name="colorPrimaryDark">#24243c</color>
+    <color name="colorAccent">#24243c</color>
+
+    <color name="background">#24243c</color>
     <color name="black">#353535</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="texto">#C5C1C1</color>
+    <color name="blanco">#fff</color>
+    <color name="rojo">#fc6464</color>
+
+    <color name="gradient_start_color">#fc6464</color>
+    <color name="gradient_end_color">#24243c</color>
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
 </resources>
